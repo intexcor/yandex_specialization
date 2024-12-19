@@ -71,7 +71,7 @@
 [<img src="https://img.shields.io/badge/MPII Human Pose Dataset на Daz 3D Forums-238636?" title="Обсуждение и примеры изображений из MPII, полезные для художников и дизайнеров."/>](https://www.daz3d.com/forums/discussion/98846/mpii-human-pose-dataset-photos-of-human-poses)
 
 ###  - MobileNetV2
-[<img src="https://img.shields.io/badge/MobileNetV2: Inverted Residuals and Linear Bottlenecks-ff0000?" title="Исходная статья, описывающая архитектуру MobileNetV2 и её преимущества для мобильных устройств."/>](https://arxiv.org/abs/1801.04381)  
-[<img src="https://img.shields.io/badge/TensorFlow Model Garden MobileNetV2-ff0000?" title="Репозиторий TensorFlow с реализацией MobileNetV2 и примерами использования."/>](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
-[<img src="https://img.shields.io/badge/Papers with Code MobileNetV2-ff0000" title="Сравнение производительности различных моделей, включая MobileNetV2, с доступными кодами."/>](https://paperswithcode.com/paper/mobilenetv2-inverted-residuals-and-linear)
+[<img src="https://img.shields.io/badge/MobileNetV2: Inverted Residuals and Linear Bottlenecks-f14f36?" title="Исходная статья, описывающая архитектуру MobileNetV2 и её преимущества для мобильных устройств."/>](https://arxiv.org/abs/1801.04381)  
+[<img src="https://img.shields.io/badge/TensorFlow Model Garden MobileNetV2-f14f36?" title="Репозиторий TensorFlow с реализацией MobileNetV2 и примерами использования."/>](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
+[<img src="https://img.shields.io/badge/Papers with Code MobileNetV2-f14f36" title="Сравнение производительности различных моделей, включая MobileNetV2, с доступными кодами."/>](https://paperswithcode.com/paper/mobilenetv2-inverted-residuals-and-linear)
 
