@@ -61,6 +61,7 @@
 - [Определение положения человека на сайте NEERC](https://neerc.ifmo.ru/wiki/index.php?title=%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0)
 - [Статья о MPII Human Pose Dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/software-and-datasets/mpii-human-pose-dataset)
 - [Хендбук яндекса по ML](https://education.yandex.ru/handbook/ml)
+- [Документация Torch](https://pytorch.org/docs/stable/index.html)
 
 ## Ссылки по компьютерному зрению для MPII Dataset и MobileNetV2
 
