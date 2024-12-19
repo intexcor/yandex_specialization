@@ -56,13 +56,34 @@
 
 Проект продемонстрировал важность выбора правильной модели и подхода к обучению для достижения оптимальных результатов.
 
-Citations:
-[1] https://neurohive.io/ru/datasety/novye-datasety-dlja-ocenki-pozy-v-3d/
-[2] https://www.youtube.com/watch?v=r52XllO_3TQ
-[3] https://habr.com/ru/companies/edison/articles/480408/
-[4] https://github.com/GnuriaN/format-README
-[5] https://dzen.ru/a/Y9ovhVv0pl-oYGZS
-[6] https://www.youtube.com/watch?v=NXNf9aYTCZ0
-[7] https://neerc.ifmo.ru/wiki/index.php?title=%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0
-[8] https://habr.com/ru/articles/649363/
-[9] https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/software-and-datasets/mpii-human-pose-dataset
+## Ссылки на литературу 
+
+- [Определение положения человека на сайте NEERC](https://neerc.ifmo.ru/wiki/index.php?title=%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0)
+- [Статья о MPII Human Pose Dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/software-and-datasets/mpii-human-pose-dataset)
+- [Хендбук яндекса по ML](https://education.yandex.ru/handbook/ml)
+
+## Ссылки по компьютерному зрению для MPII Dataset и MobileNetV2
+
+### MPII Human Pose Dataset
+- [MPII Human Pose Dataset - Papers With Code](https://paperswithcode.com/dataset/mpii)  
+  Описание и ссылки на модели, использующие MPII для оценки позы человека.
+  
+- [MPII Human Pose Dataset - Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/software-and-datasets/mpii-human-pose-dataset)  
+  Официальная страница с подробной информацией о датасете, включая аннотации и методологию сбора данных.
+
+- [15 Best Free Datasets for Human Pose Estimation in Computer Vision](https://encord.com/blog/15-best-free-pose-estimation-datasets/)  
+  Обзор лучших бесплатных датасетов для оценки позы человека, включая MPII.
+
+- [MPII Human Pose Dataset на Daz 3D Forums](https://www.daz3d.com/forums/discussion/98846/mpii-human-pose-dataset-photos-of-human-poses)  
+  Обсуждение и примеры изображений из MPII, полезные для художников и дизайнеров.
+
+### MobileNetV2
+- [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)  
+  Исходная статья, описывающая архитектуру MobileNetV2 и её преимущества для мобильных устройств.
+
+- [TensorFlow Model Garden - MobileNetV2](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)  
+  Репозиторий TensorFlow с реализацией MobileNetV2 и примерами использования.
+
+- [Papers with Code - MobileNetV2](https://paperswithcode.com/paper/mobilenetv2-inverted-residuals-and-linear)  
+  Сравнение производительности различных моделей, включая MobileNetV2, с доступными кодами.
+
